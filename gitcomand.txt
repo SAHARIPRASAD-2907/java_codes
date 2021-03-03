@@ -1,0 +1,7 @@
+git init - to initialize for 1st time
+git status - to check status
+git add . -  to add all files in git
+git commit -m "your message"  to commit our changes
+git remote add origin 'your_url_name'  to assign in which repositery you want to add your code 
+
+git push -u origin master  finally to push code in github reposetry 
